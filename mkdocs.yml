@@ -1,0 +1,17 @@
+site_name: Swaturi Test
+nav:
+  - 'CONTENTS': 
+    - 'Getting Started': index.md
+    - 'Authentication': authentication.md
+ 
+  - 'Endpoints':
+    - 'User Endpoints': endpoints.md
+    
+
+  - 'Error Handling':
+    - 'Error Handling': error.md
+    
+theme:
+   name: readthedocs
+
+   
